@@ -1,0 +1,29 @@
+Insurance Coverage Summary
+
+Polley Effective
+
+Coverage Carrier Term Date/Month Premium Umit
+Property/Liabllity
+Property Zurich Annual October 10 $ 50,005 $39.5 Real Property/$1.2M Personal Property/
+$2.6M Business Income/$250K Employee Theft
+Business Automobile Progressive Annual August 16 $ 3,687 $1M Combined Single Limit
+General Liability/Professional Liability National Fire Annual October 1 $ 71,785 $1M Each Occurrence/$3M General Aggregate Limit
+D&O, EPL & Fiduciary Arch Annual July 10 S 17,281 $5M Aggregate Limit of Liability
+Excess Liability National Fire Annual October 1 $ 40,199 $5M Annual Aggregate/$5M Each Occurrence
+Crime Travelers 3 Year July 10, 2019- $ 4,170 $750K Employee Theft/$750K ERISA Fidelity/$750K Forgery/
+July 10, 2022 Alteration
+ERISA Travelers 3Year October 1, 2018- $ 464 $500K
+October 1, 2021
+Cyber Liability CFC-Lloyds Annual October 19, 2019- $ 7,000 $2.5M Policy Limit of Liability, Aggregate
+October 19, 2022
+Workers Compensation/Employers Liability Cypress/BHHC Annual January 1 $ 231,477 $1M BI Each Accident/$1M Policy Limit BI by Disease/
+$1M BI Each Employee by Disease
+Subtotal $426,068
+Taxes and Fees are not included in the premiums above.
+Employee Benefits
+Health Insurance Kaiser Annual January 1 $ 641,460 *
+Dental/Life/LTD/AD&D Lincoln Annual January 1 $ 85,548
+[subtotal $__727,008
+[Total $
+
+| Employees pay 5% of premium for deductible plan amount.
